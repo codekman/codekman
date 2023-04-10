@@ -1,15 +1,11 @@
-
-<p align="center"><img align="center" src="https://www.meetwithashik.com/assets/img/about/about-1.jpg" alt="codekman" height="250" /></p>
-
 <h1 align="center">Hi 👋, I'm Ashik Rahman</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekman" alt="codekman" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/codekman" target="blank"><img src="https://img.shields.io/twitter/follow/codekman?logo=twitter&style=for-the-badge" alt="codekman" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekman&label=Profile%20views&color=0e75b6&style=flat" alt="codekman" /> </p>
 
-
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekman&label=Profile%20views&color=0e75b6&style=flat" alt="codekman" /> </p>
 - 🌱 I’m currently learning **Javarscript framework!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codekman](https://github.com/codekman)
