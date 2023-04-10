@@ -1,5 +1,5 @@
 
-<img align="center" src="https://www.meetwithashik.com/assets/img/about/about-1.jpg" alt="codekman" height="500" />
+<p align="center"><img align="center" src="https://www.meetwithashik.com/assets/img/about/about-1.jpg" alt="codekman" height="250" /></p>
 
 <h1 align="center">Hi 👋, I'm Ashik Rahman</h1>
 <h3 align="center">Full Stack Developer</h3>
