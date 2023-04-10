@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/codekman" target="blank"><img src="https://img.shields.io/twitter/follow/codekman?logo=twitter&style=for-the-badge" alt="codekman" /></a> </p>
 
+
+- <img align="center" src="https://www.meetwithashik.com/assets/img/about/about-1.jpg" alt="codekman" height="500" />
 - 🌱 I’m currently learning **Javarscript framework!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codekman](https://github.com/codekman)
